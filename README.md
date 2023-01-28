@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 ![Elise Malin, software developer, artist](https://github.com/elisemalin/elisemalin/blob/main/Profile-Header.jpg)
 
 
