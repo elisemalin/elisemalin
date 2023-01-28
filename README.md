@@ -2,7 +2,7 @@
 
 
 ### Hi there, I'm Elise!
-- 🏋🏻‍♀️ I'm a software developer, an artist that loves darker themes, and a graphic designer!
+- 🎨 I'm a software developer, an artist that loves darker themes, and a graphic designer!
 - 🌱 I’m currently learning Typescript while sharpening my skills in JavaScript and React. 
 - 💬 Ask me about why I made a Tarokka card reader when I've never played D&D a day in my life!
 - ✨ Dark mode enthusiest. You don't stay this pale by burning your retinas with white backgrounds.
