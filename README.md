@@ -1,4 +1,4 @@
-![Elise Malin, software developer, artist](https://github.com/elisemalin/elisemalin/blob/main/Profile-Header.jpg)
+
 
 
 ### Hi there, I'm Elise!
