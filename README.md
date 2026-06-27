@@ -2,9 +2,9 @@
 
 <img src="./assets/pd-logo-wide.png" alt="Pastel Dawn" width="440" />
 
-<h3>Hi, I'm Elise — developer, designer, and founder of Pastel&nbsp;Dawn.</h3>
+<h3>Hi, I'm Elise. I'm a developer and designer, and I run a studio called Pastel&nbsp;Dawn.</h3>
 
-<p><em>I build calm, fast, accessible software for small businesses and the people who run them.</em></p>
+<p><em>I make websites and web apps for small businesses and the people who run them.</em></p>
 
 </div>
 
@@ -12,17 +12,17 @@
 
 ### About
 
-I'm a software developer and graphic designer who lives in dark mode and leans toward darker, softer aesthetics. Most of what I make these days lives behind the scenes — client work, studio tooling, and a few things that aren't ready to meet the world yet — so this profile is quieter than the work behind it.
+I'm a software developer and graphic designer. I live in dark mode and I'm drawn to darker, softer looking things. Most of what I build these days is private (client projects, studio tooling, and a few things that aren't ready to show yet), so there's a lot more going on here than this page lets on.
 
-A few constants: code I can explain line by line, interfaces that stay out of the way, and shipping things that hold up well after launch.
+What I care about: code I can actually explain, interfaces that get out of your way, and work that still holds up a year after launch.
 
 ### Pastel Dawn
 
-[Pastel Dawn](https://elise.codes) is my studio. I design and build websites and web apps for small businesses and nonprofits — work that's documented, accessible, and genuinely owned by the people I build it for. The throughline is the same on every project:
+[Pastel Dawn](https://pasteldawn.com) is my studio. I design and build sites and apps for small businesses and nonprofits, and I try to keep it honest:
 
-- **Clients own their work.** No proprietary lock-in, no mystification.
-- **Performance and accessibility are the floor.** Lighthouse 90+, WCAG 2.1 AA.
-- **Nothing ships that I can't explain.** Clarity over cleverness, always.
+- **Clients own their work.** No lock-in, no mystery.
+- **Speed and accessibility aren't optional.** Lighthouse 90+, WCAG 2.1 AA.
+- **If I can't explain it, it doesn't ship.**
 
 ### Toolkit
 
@@ -39,5 +39,5 @@ A few constants: code I can explain line by line, interfaces that stay out of th
 
 ### Elsewhere
 
-[![Website](https://img.shields.io/badge/elise.codes-EFA8B8?style=flat-square&logo=googlechrome&logoColor=fff)](https://elise.codes)
+[![Website](https://img.shields.io/badge/pasteldawn.com-EFA8B8?style=flat-square&logo=googlechrome&logoColor=fff)](https://pasteldawn.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/elise-malin)
